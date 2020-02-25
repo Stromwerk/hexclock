@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#time {
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+    color: #fff;
+    font-size: 100px;
+    font-weight: 100;
+}
